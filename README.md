@@ -1,5 +1,6 @@
 Juli can be instructed to do following activities:
 - Open browsers like Edge, Brave and Chrome
+- Send Email
 - Play music
 - Play any video on the youtube
 - Open VS Code
